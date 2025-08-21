@@ -1,0 +1,23 @@
+Task:
+------
+Program:
+=======
+Input:
+    12
+    2
+Output:
+    Entered numbers are 12,2
+    Entered numbers are '12','2'
+
+Concepts:
+=========
+    - Introduction to Python
+    - History of Python
+    - Advantages & Disadvantages of Python
+    - Applications of Python
+-------------------------------------------
+    - Jumping Statements
+    - Inner Loops (or) Nested Loops
+    - Functions and its types
+    - User defined function types
+    - Function Argument Types
